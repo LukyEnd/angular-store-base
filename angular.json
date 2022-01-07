@@ -107,5 +107,8 @@
       }
     }
   },
-  "defaultProject": "angular-base-store"
+  "defaultProject": "angular-base-store",
+  "cli": {
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
