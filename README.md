@@ -9,5 +9,4 @@ que for programar em NGRX. Com isto, evitar que seja feito toda a instalação m
 
 * ng add @ngrx/schematics@latest
 
-## Caso esta segunda instação nao seja feita, o "Feature" a qual instala as actions, effects, reducer and selectors
-## nao funcionará, sendo necessário a instalação individual de cada um deles
+## Caso esta segunda instação nao seja feita, o "Feature" a qual instala as actions, effects, reducer and selectors nao funcionará, sendo necessário a instalação individual de cada um deles
